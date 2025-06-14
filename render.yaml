@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: virtual-ta-api
+    env: docker
+    region: oregon  # optional: can be us-central, frankfurt, etc.
+    plan: free
+    dockerfilePath: Dockerfile  # no need for './'
+    autoDeploy: true
+    envVars:
+      - key: OPENAI_API_KEY
+        value: "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjIyZjEwMDE3MTZAZHMuc3R1ZHkuaWl0bS5hYy5pbiJ9.D3uz6Mf0kKr2iSwHG-tbIZQ8_0mPIB0WskiFnVvSNC8"
+      - key: OPENAI_BASE_URL
+        value: "https://aipipe.org/openrouter/v1"
+      - key: EMBEDDINGS_BASE_URL
+        value: "https://aipipe.org/openai/v1"
+      - key: PYTHONUNBUFFERED
+        value: "1"

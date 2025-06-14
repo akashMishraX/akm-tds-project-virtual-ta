@@ -1,0 +1,23 @@
+---
+noteId: "a9a09ff246b011f093c9651dc0b7858f"
+tags: []
+title: "Visualizing Forecasts with Excel"
+original_url: "https://tds.s-anand.net/#/visualizing-forecasts-with-excel?id=visualizing-forecasts-with-excel"
+downloaded_at: "2025-06-03T16:40:34.297657"
+
+---
+
+[Visualizing Forecasts with Excel](#/visualizing-forecasts-with-excel?id=visualizing-forecasts-with-excel)
+----------------------------------------------------------------------------------------------------------
+
+[![Visualizing forecasts with Excel](https://i.ytimg.com/vi_webp/judFpVgfsV4/sddefault.webp)](https://youtu.be/judFpVgfsV4)
+
+* [Excel File](https://docs.google.com/spreadsheets/d/1a6cSbmZKjX_ZzBsWWrPQwU_4KgRNMwc0/view#gid=1138079165)
+
+[Previous
+
+7. Data Visualization](#/data-visualization)
+
+[Next
+
+Visualizing Animated Data with PowerPoint](#/visualizing-animated-data-with-powerpoint)
